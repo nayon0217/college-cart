@@ -145,7 +145,7 @@ export default function HomeClient({ listings }: { listings: ListingItem[] }) {
         <div
           className="rounded-2xl py-3 overflow-hidden"
           style={{
-            background: "linear-gradient(270deg, #6d28d9, #8b5cf6, #a78bfa, #7c3aed, #6d28d9)",
+            background: "linear-gradient(270deg, #2f167a, #4a2db8, #5c3dd1, #3d1f96, #2f167a)",
             backgroundSize: "300% 300%",
             animation: "bannerGradient 6s ease infinite",
           }}
@@ -166,10 +166,10 @@ export default function HomeClient({ listings }: { listings: ListingItem[] }) {
             style={{ animation: "marquee 18s linear infinite" }}
           >
             <span className="text-white font-medium px-6">
-              ✦ 510+ weekly active users &nbsp;&nbsp;·&nbsp;&nbsp; College Cart &nbsp;&nbsp;·&nbsp;&nbsp; Buy &amp; Sell on Campus &nbsp;&nbsp;·&nbsp;&nbsp; New listings every day &nbsp;&nbsp;·&nbsp;&nbsp; Join your campus marketplace &nbsp;&nbsp;
+              ✦ 610+ weekly active users &nbsp;&nbsp;·&nbsp;&nbsp; New listings every day &nbsp;&nbsp;·&nbsp;&nbsp; Secure campus handoffs &nbsp;&nbsp;·&nbsp;&nbsp; Secure off-platform payment (Zelle, Venmo, cash, food* etc.) &nbsp;&nbsp;·&nbsp;&nbsp; 0 listing/service fees &nbsp;&nbsp;
             </span>
             <span className="text-white font-medium px-6" aria-hidden="true">
-              ✦ 510+ weekly active users &nbsp;&nbsp;·&nbsp;&nbsp; College Cart &nbsp;&nbsp;·&nbsp;&nbsp; Buy &amp; Sell on Campus &nbsp;&nbsp;·&nbsp;&nbsp; New listings every day &nbsp;&nbsp;·&nbsp;&nbsp; Join your campus marketplace &nbsp;&nbsp;
+              ✦ 610+ weekly active users &nbsp;&nbsp;·&nbsp;&nbsp; New listings every day &nbsp;&nbsp;·&nbsp;&nbsp; Secure campus handoffs &nbsp;&nbsp;·&nbsp;&nbsp; Secure off-platform payment (Zelle, Venmo, cash, food* etc.) &nbsp;&nbsp;·&nbsp;&nbsp; 0 listing/service fees &nbsp;&nbsp;
             </span>
           </div>
         </div>
